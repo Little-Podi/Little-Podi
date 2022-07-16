@@ -19,28 +19,28 @@ Welcome to my GitHub homepage. I am Shenyuan Gao, a coming first-year Ph.D. stud
 <details>
     <summary>Selected Awards</summary>
     <ul>
-        <li><a href='https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird'>RedBird PhD Scholarship</a></li>
-        <li><a href='https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs'>Postgraduate Scholarship</a></li>
+        <li><a target='_blank' href='https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird'>RedBird PhD Scholarship</a></li>
+        <li><a target='_blank' href='https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs'>Postgraduate Scholarship</a></li>
         <li>Outstanding Graduate</li>
         <li>Outstanding Graduation Thesis</li>
         <li>Outstanding Undergraduate in Terms of Academic Performance</li>
         <li>National Scholarship</li>
     </ul>
 </details>
-
 <details>
     <summary>My Hobbies</summary>
     <ul>
-        <li>Favorite Comics: <a href='https://en.wikipedia.org/wiki/One_Piece'>One Piece</a></li>
-        <li>Favorite Game: <a href='https://en.wikipedia.org/wiki/One_Piece'>Total War: Three Kingdoms</a></li>
-    </ul>
-</details>
-<details>
-    <summary>Contact Me</summary>
-    <ul>
-        <li>Mail: <a href='mailto:shenyuangao@gmail.com'>shenyuangao@gmail.com</a></li>
-        <li>WeChat: <a href='https://gsy00517.github.io/about/index/Wechat.JPG'>gsycm0517</a></li>
-        <li>QQ: <a href='https://gsy00517.github.io/about/index/QQ.JPG'>917547962</a></li>
+        <li>Favorite Comics: <a target='_blank' href='https://en.wikipedia.org/wiki/One_Piece'>One Piece</a></li>
+        <li>Favorite Game: <a target='_blank' href='https://en.wikipedia.org/wiki/One_Piece'>Total War: Three Kingdoms</a></li>
     </ul>
 </details>
 
+
+<details>
+    <summary>Contact Me</summary>
+    <ul>
+        <li>Mail: <a target='_blank' href='mailto:shenyuangao@gmail.com'>shenyuangao@gmail.com</a></li>
+        <li>WeChat: <a target='_blank' href='https://gsy00517.github.io/about/index/Wechat.JPG'>gsycm0517</a></li>
+        <li>QQ: <a target='_blank' href='https://gsy00517.github.io/about/index/QQ.JPG'>917547962</a></li>
+    </ul>
+</details>
