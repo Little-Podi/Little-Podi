@@ -12,12 +12,12 @@ Welcome to my GitHub homepage. I am Shenyuan Gao, a coming first-year Ph.D. stud
 ### Publication
 
 - AiATrack: Attention in Attention for Transformer Visual Tracking
-  - Accepted by ECCV 2022 
+  - Accepted by ECCV 2022
 - Comprehensive Study on Visual Object Tracking under Explosion of Deep Learning: Survey and Experiments
   - Submitted to CSUR
 
 <details>
-    <summary>Selected Awards</summary>
+    <summary><b>Selected Awards</b></summary>
     <ul>
         <li><a href='https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird' target='_blank'>RedBird PhD Scholarship</a></li>
         <li><a href='https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs' target='_blank'>Postgraduate Scholarship</a></li>
@@ -29,7 +29,7 @@ Welcome to my GitHub homepage. I am Shenyuan Gao, a coming first-year Ph.D. stud
 </details>
 
 <details>
-    <summary>My Hobbies</summary>
+    <summary><b>My Hobbies</b></summary>
     <ul>
         <li>Favorite Comics: <a href='https://en.wikipedia.org/wiki/One_Piece' target='_blank'>One Piece</a></li>
         <li>Favorite Game: <a href='https://en.wikipedia.org/wiki/One_Piece' target='_blank'>Total War: Three Kingdoms</a></li>
@@ -37,11 +37,10 @@ Welcome to my GitHub homepage. I am Shenyuan Gao, a coming first-year Ph.D. stud
 </details>
 
 <details>
-    <summary>Contact Me</summary>
+    <summary><b>Contact Me</b></summary>
     <ul>
         <li>Mail: <a href='mailto:shenyuangao@gmail.com' target='_blank'>shenyuangao@gmail.com</a></li>
         <li>WeChat: <a href='https://gsy00517.github.io/about/index/Wechat.JPG' target='_blank'>gsycm0517</a></li>
         <li>QQ: <a href='https://gsy00517.github.io/about/index/QQ.JPG' target='_blank'>917547962</a></li>
     </ul>
 </details>
-
