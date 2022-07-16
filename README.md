@@ -1,6 +1,6 @@
 ###  :wave:Hi there~
 
-Welcome to my GitHub homepage. I am Shenyuan Gao, a coming first-year Ph.D. student at [Hong Kong University of Science and Technology](https://hkust.edu.hk/) (HKUST).
+Welcome to my GitHub homepage. I am Shenyuan Gao, a coming first-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
 
 ### Education
 
@@ -14,6 +14,7 @@ Welcome to my GitHub homepage. I am Shenyuan Gao, a coming first-year Ph.D. stud
 - RedBird PhD Scholarship
 - Postgraduate Scholarship
 - Outstanding Graduate
+- Outstanding Graduation Thesis
 - Outstanding Undergraduate in Terms of Academic Performance
 - National Scholarship
 
@@ -21,3 +22,4 @@ Welcome to my GitHub homepage. I am Shenyuan Gao, a coming first-year Ph.D. stud
 
 - My Favorite Comics -> One Piece
 - My Favorite Game -> Total War: Three Kingdoms
+
