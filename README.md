@@ -32,7 +32,7 @@ Welcome to my GitHub homepage. I am Shenyuan Gao, a coming first-year Ph.D. stud
     <ul>
         <li>Comics: <a href='https://en.wikipedia.org/wiki/One_Piece' target='_blank'>One Piece</a></li>
         <li>Game: <a href='https://en.wikipedia.org/wiki/One_Piece' target='_blank'>Total War: Three Kingdoms</a></li>
-        <li>TV Series: <a href='https://www.youtube.com/playlist?list=PLzfNoYeTnhXKDvhE2W-pipvdTiT5KqNkD' target='_blank'>The Advisors Alliance</a>, <a href='https://www.youtube.com/playlist?list=PLzfNoYeTnhXLc6_fPvMoVjeuChEnwO3bQ' target='_blank'>Growling Tiger, Roaring Dragon</a></li>
+        <li>TV Series: <a href='https://www.youtube.com/playlist?list=PLzfNoYeTnhXKDvhE2W-pipvdTiT5KqNkD' target='_blank'>The Advisors Alliance</a> and <a href='https://www.youtube.com/playlist?list=PLzfNoYeTnhXLc6_fPvMoVjeuChEnwO3bQ' target='_blank'>Growling Tiger, Roaring Dragon</a></li>
     </ul>
 </details>
 <details>
