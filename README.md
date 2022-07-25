@@ -1,6 +1,6 @@
 ###  :wave:Hi there~
 
-Welcome to my GitHub homepage. I am Shenyuan Gao, a coming first-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
+Welcome to my GitHub homepage. I am Shenyuan Gao, a first-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
 
 ### Education
 
@@ -38,8 +38,9 @@ Welcome to my GitHub homepage. I am Shenyuan Gao, a coming first-year Ph.D. stud
 <details>
     <summary><b>Contact Me</b></summary>
     <ul>
-        <li>Mail: <a href='mailto:shenyuangao@gmail.com' target='_blank'>shenyuangao@gmail.com</a></li>
+        <li>Mail: <a href='mailto:sygao@connect.ust.hk' target='_blank'>sygao@connect.ust.hk</a>, <a href='mailto:shenyuangao@gmail.com' target='_blank'>shenyuangao@gmail.com</a></li>
         <li>WeChat: <a href='https://gsy00517.github.io/about/index/Wechat.JPG' target='_blank'>gsycm0517</a></li>
         <li>QQ: <a href='https://gsy00517.github.io/about/index/QQ.JPG' target='_blank'>917547962</a></li>
     </ul>
 </details>
+
