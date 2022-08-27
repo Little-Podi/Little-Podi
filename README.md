@@ -1,6 +1,6 @@
-###  :wave:Hi there~
+###  :wave:Hi there, I'm Shenyuan Gao (高深远, which means High Deep Far)
 
-Welcome to my GitHub homepage. I am Shenyuan Gao, a first-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
+Welcome to my GitHub homepage. Now I'm a first-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
 
 ### Education
 
@@ -43,4 +43,3 @@ Welcome to my GitHub homepage. I am Shenyuan Gao, a first-year Ph.D. student at 
         <li>QQ: <a href='https://gsy00517.github.io/about/index/QQ.JPG' target='_blank'>917547962</a></li>
     </ul>
 </details>
-
