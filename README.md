@@ -1,4 +1,4 @@
-###  :wave:Hi there, I'm Shenyuan Gao (高深远, which means High Deep Far)
+###  :wave:Hi there, I'm GAO, Shenyuan (高深远, which means High Deep Far)
 
 Welcome to my GitHub homepage. Now I'm a first-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
 
