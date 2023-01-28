@@ -1,6 +1,10 @@
 ###  :wave:Hi there, I'm GAO, Shenyuan (高深远, which means High Deep Far)
 
-Welcome to my GitHub homepage. Now I'm a first-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
+Welcome to Shenyuan's GitHub homepage. Now he is a first-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
+
+### Bio
+
+Shenyuan was born in the last year of the 20th century (2000). He hopes to live until the 22nd century so that his life would span three centuries.
 
 ### Education
 
@@ -13,8 +17,6 @@ Welcome to my GitHub homepage. Now I'm a first-year Ph.D. student at [HKUST](htt
 
 - AiATrack: Attention in Attention for Transformer Visual Tracking
   - Accepted by ECCV 2022
-- Comprehensive Study on Visual Object Tracking under Explosion of Deep Learning: Survey and Experiments
-  - Submitted to CSUR
 
 <details>
     <summary><b>Selected Awards</b></summary>
