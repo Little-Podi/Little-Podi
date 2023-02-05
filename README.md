@@ -19,7 +19,15 @@ Shenyuan was born in the last year of the 20th century (2000). He hopes to live 
   - Accepted by ECCV 2022
 
 <details>
-    <summary><b>Selected Awards</b></summary>
+    <summary><b>Misc</b></summary>
+    <ul>
+        <li>Comics: <a href='https://en.wikipedia.org/wiki/One_Piece' target='_blank'>One Piece</a></li>
+        <li>Game: <a href='https://en.wikipedia.org/wiki/One_Piece' target='_blank'>Total War: Three Kingdoms</a></li>
+        <li>TV Series: <a href='https://www.youtube.com/playlist?list=PLzfNoYeTnhXKDvhE2W-pipvdTiT5KqNkD' target='_blank'>The Advisors Alliance</a> and <a href='https://www.youtube.com/playlist?list=PLzfNoYeTnhXLc6_fPvMoVjeuChEnwO3bQ' target='_blank'>Growling Tiger, Roaring Dragon</a></li>
+    </ul>
+</details>
+<details>
+    <summary><b>Honor</b></summary>
     <ul>
         <li><a href='https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird' target='_blank'>RedBird PhD Scholarship</a></li>
         <li><a href='https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs' target='_blank'>Postgraduate Scholarship</a></li>
@@ -30,15 +38,7 @@ Shenyuan was born in the last year of the 20th century (2000). He hopes to live 
     </ul>
 </details>
 <details>
-    <summary><b>My Favorites</b></summary>
-    <ul>
-        <li>Comics: <a href='https://en.wikipedia.org/wiki/One_Piece' target='_blank'>One Piece</a></li>
-        <li>Game: <a href='https://en.wikipedia.org/wiki/One_Piece' target='_blank'>Total War: Three Kingdoms</a></li>
-        <li>TV Series: <a href='https://www.youtube.com/playlist?list=PLzfNoYeTnhXKDvhE2W-pipvdTiT5KqNkD' target='_blank'>The Advisors Alliance</a> and <a href='https://www.youtube.com/playlist?list=PLzfNoYeTnhXLc6_fPvMoVjeuChEnwO3bQ' target='_blank'>Growling Tiger, Roaring Dragon</a></li>
-    </ul>
-</details>
-<details>
-    <summary><b>Contact Me</b></summary>
+    <summary><b>Contact</b></summary>
     <ul>
         <li>Mail: <a href='mailto:sygao@connect.ust.hk' target='_blank'>sygao@connect.ust.hk</a>, <a href='mailto:shenyuangao@gmail.com' target='_blank'>shenyuangao@gmail.com</a></li>
         <li>WeChat: <a href='https://gsy00517.github.io/about/index/Wechat.JPG' target='_blank'>gsycm0517</a></li>
