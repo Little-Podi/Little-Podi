@@ -4,7 +4,7 @@ Welcome to Shenyuan's GitHub homepage. Now he is a first-year Ph.D. student at [
 
 ### Bio
 
-Shenyuan was born in the last year of the 20th century (2000). He hopes to live until the 22nd century so that his life would span three centuries.
+Shenyuan Gao was born in the last year of the 20th century (May 17th, 2000). He hopes to live until the 22nd century so that his life would span three centuries.
 
 ### Education
 
