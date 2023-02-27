@@ -1,6 +1,6 @@
 ###  :wave:Hi there, I'm Shenyuan Gao
 
-<a href='https://skyline.github.com/Little-Podi/'><img align='center' width='80%' src='https://github-readme-stats.vercel.app/api?username=Little-Podi&show_icons=true&theme=graywhite'></a>
+<a href='https://skyline.github.com/Little-Podi/'><img align='center' width='42%' src='https://github-readme-stats.vercel.app/api?username=Little-Podi&show_icons=true&theme=graywhite'></a>
 
 ### Bio
 
