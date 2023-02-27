@@ -1,10 +1,10 @@
-###  :wave:Hi there, I'm GAO, Shenyuan (高深远, which means High Deep Far)
+###  :wave:Hi there, I'm Shenyuan Gao
 
-Welcome to Shenyuan's GitHub homepage. Now he is a first-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
+<a href='https://skyline.github.com/Little-Podi/'><img align='center' width='80%' src='https://github-readme-stats.vercel.app/api?username=Little-Podi&show_icons=true&theme=graywhite'></a>
 
 ### Bio
 
-Shenyuan Gao was born in the last year of the 20th century (May 17th, 2000). He hopes to live until the 22nd century so that his life would span three centuries.
+Shenyuan Gao was born in the last year of the 20th century (May 17th, 2000). He hopes to live until the 22nd century so that his life would span three centuries. The Chinese meaning of each word in his name (GAO, Shenyuan 高深远) is High, Deep, Far, respectively. Now he is a first-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
 
 ### Education
 
