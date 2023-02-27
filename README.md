@@ -1,10 +1,8 @@
 ###  :wave:Hi there, I'm Shenyuan Gao
 
-<a href='https://skyline.github.com/Little-Podi/'><img align='center' width='42%' src='https://github-readme-stats.vercel.app/api?username=Little-Podi&show_icons=true&theme=graywhite'></a>
-
 ### Bio
 
-Shenyuan Gao was born in the last year of the 20th century (May 17th, 2000). He hopes to live until the 22nd century so that his life would span three centuries. The Chinese meaning of each word in his name (GAO, Shenyuan 高深远) is High, Deep, Far, respectively. Now he is a first-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
+Shenyuan Gao was born in the last year of the 20th century (May 17th, 2000). He hopes to live until the 22nd century so that his life would span three centuries. The Chinese meanings of each word in his name (GAO, Shenyuan 高深远) are High, Deep, Far, respectively. Now he is a first-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
 
 ### Education
 
@@ -45,3 +43,7 @@ Shenyuan Gao was born in the last year of the 20th century (May 17th, 2000). He 
         <li>QQ: <a href='https://gsy00517.github.io/about/index/QQ.JPG' target='_blank'>917547962</a></li>
     </ul>
 </details>
+
+<p align='center' width='100%'>
+<a href='https://skyline.github.com/Little-Podi/'><img width='42%' src='https://github-readme-stats.vercel.app/api?username=Little-Podi&show_icons=true&theme=graywhite'></a>
+</p>
