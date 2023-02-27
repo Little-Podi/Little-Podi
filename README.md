@@ -1,8 +1,4 @@
-###  :wave:Hi there, I'm Shenyuan Gao
-
-<p align='center' width='100%'>
-<a href='https://skyline.github.com/Little-Podi/'><img width='42%' src='https://github-readme-stats.vercel.app/api?username=Little-Podi&show_icons=true&theme=graywhite'></a>
-</p>
+##  :wave:Hi there, I'm Shenyuan Gao
 
 ### Latent Representation
 
