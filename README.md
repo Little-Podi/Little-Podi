@@ -13,6 +13,9 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 
 #### Saved Checkpoints
 
+- Generalized Relation Modeling for Transformer Tracking
+  - Accepted by CVPR 2023
+
 - AiATrack: Attention in Attention for Transformer Visual Tracking
   - Accepted by ECCV 2022
 
