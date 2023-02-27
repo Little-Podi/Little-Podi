@@ -2,7 +2,7 @@
 
 #### Latent Representation
 
-I was born in the last year of the 20th century (May 17th, 2000). I hope to live until the 22nd century so that my life would span three centuries. The Chinese meanings of each word in my name (高深远) are High, Deep, Far, respectively. Now I am a first-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
+I was born in the last year of the 20th century (May 17th, 2000). I hope to live until the 22nd century so that my life would span three centuries. The Chinese meanings of each word in my name (高深远) are "High", "Deep", "Far", respectively. Now I am a first-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
 
 #### Multi-Stage Pre-Training
 
@@ -18,7 +18,7 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 - AiATrack: Attention in Attention for Transformer Visual Tracking
   - Accepted by ECCV 2022
 - Comprehensive Study on Visual Object Tracking under Explosion of Deep Learning: Survey and Experiments
-  - Rejected by CSUR
+  - Rejected by CSUR in 2020
 
 #### Reached Local Minimas
 
