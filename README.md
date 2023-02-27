@@ -17,6 +17,8 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
   - Accepted by CVPR 2023
 - AiATrack: Attention in Attention for Transformer Visual Tracking
   - Accepted by ECCV 2022
+- Comprehensive Study on Visual Object Tracking under Explosion of Deep Learning: Survey and Experiments
+  - Rejected by CSUR
 
 #### Reached Local Minimas
 
