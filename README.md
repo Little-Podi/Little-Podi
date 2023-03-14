@@ -7,7 +7,7 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 #### Multi-Stage Pre-Training
 
 - Ph.D. in Electronic and Computer Engineering, 2022-2026 (expected)
-  - Hong Kong University of Science and Technology, advised by Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) (IEEE Fellow)
+  - The Hong Kong University of Science and Technology, advised by Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) (IEEE Fellow)
 - B.Eng. in Electronic Information Engineering, 2018-2022
   - Huazhong University of Science and Technology, Advanced Class (GPA 3.9/4.0, ranked 1st)
 
