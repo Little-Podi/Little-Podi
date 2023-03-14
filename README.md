@@ -23,7 +23,7 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 #### Reached Local Minimas
 
 - [RedBird PhD Scholarship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
-- [Postgraduate Scholarship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs)
+- [Full Postgraduate Scholarship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs)
 - Outstanding Graduate
 - Outstanding Graduation Thesis
 - Outstanding Undergraduate in Terms of Academic Performance
@@ -38,7 +38,7 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 
 #### Build Fully Connected Layers
 
-- School E-Mail: [sygao@connect.ust.hk](mailto:sygao@connect.ust.hk)
-- Personal E-Mail: [shenyuangao@gmail.com](mailto:shenyuangao@gmail.com)
+- School Email: [sygao@connect.ust.hk](mailto:sygao@connect.ust.hk)
+- Personal Email: [shenyuangao@gmail.com](mailto:shenyuangao@gmail.com)
 - WeChat: [gsycm0517](https://gsy00517.github.io/about/index/Wechat.JPG)
 - QQ: [917547962](https://gsy00517.github.io/about/index/QQ.JPG)
