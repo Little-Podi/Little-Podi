@@ -2,7 +2,7 @@
 
 #### Latent Representation
 
-I was born in the last year of the 20th century (May 17th, 2000). I hope to live until the 22nd century so that my life would span three centuries. The Chinese meanings of each word in my name (高深远) are "High", "Deep", "Far", respectively. Now I am a first-year Ph.D. student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). To find more information, view my up-to-date [Resume](https://github.com/Little-Podi/Little-Podi/blob/main/gsy_CV.pdf).
+I was born in the last year of the 20th century (May 17th, 2000). I hope to live until the 22nd century so that my life would span three centuries. The Chinese meanings of each word in my name (高深远) are "High", "Deep", "Far", respectively. Now I am a first-year Ph.D. student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). To find more information, view my up-to-date [Resume](https://github.com/Little-Podi/Little-Podi/blob/main/gsy_Resume.pdf).
 
 #### Multi-Stage Pre-Training
 
