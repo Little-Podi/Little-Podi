@@ -30,13 +30,13 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 #### Region of Interests
 
 - Song: [Temple](https://youtu.be/Pn28OiY_aw0)
-- Game: [Total War: THREE KINGDOMS](https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/)
-- Comics: [One Piece](https://en.wikipedia.org/wiki/One_Piece)
-- TV Series: [The Advisors Alliance](https://en.wikipedia.org/wiki/The_Advisors_Alliance)
+- Game: [Total War: THREE KINGDOMS](https://www.totalwar.com/games/three-kingdoms/)
+- Comic: [One Piece](https://one-piece.com/)
 
 #### Matched Queries
 
 - School Email: [sygao@connect.ust.hk](mailto:sygao@connect.ust.hk)
 - Personal Email: [shenyuangao@gmail.com](mailto:shenyuangao@gmail.com)
+- Enterprise Email: [gaoshenyuan@pjlab.org.cn](mailto:gaoshenyuan@pjlab.org.cn)
 - WeChat: [gsycm0517](https://gsy00517.github.io/about/index/Wechat.JPG)
 - QQ: [917547962](https://gsy00517.github.io/about/index/QQ.JPG)
