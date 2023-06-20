@@ -6,7 +6,7 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 
 ## Local Minima
 
-Please find my up-to-date resume [here](https://github.com/Little-Podi/Little-Podi/blob/main/gsy_Resume.pdf) to check my current status.
+Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/blob/main/gsy_Resume.pdf) to check my current status.
 
 ## Multi-Stage Pre-Training
 
