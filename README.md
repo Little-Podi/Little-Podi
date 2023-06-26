@@ -4,7 +4,7 @@
 
 I was born in the last year of the 20th century (May 17th, 2000). I hope to live until the 22nd century so that my life would span three centuries. The Chinese meanings of each word in my name (高深远) are "High", "Deep", "Far", respectively.
 
-## Local Minima
+## Reached Local Minima
 
 Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/blob/main/gsy_Resume.pdf) to check my current status.
 
