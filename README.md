@@ -33,9 +33,9 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 
 ## Region of Interests
 
-- Song: [Temple](https://youtu.be/Pn28OiY_aw0) (a trip to ambition)
-- Game: [Total War: THREE KINGDOMS](https://www.totalwar.com/games/three-kingdoms/) (a world of idealism)
-- Comic: [One Piece](https://one-piece.com/) (a story about romanticism)
+- Song: [Temple](https://youtu.be/Pn28OiY_aw0) (a road towards our pursuit)
+- Game: [Total War: THREE KINGDOMS](https://www.totalwar.com/games/three-kingdoms/) (a world of heroic idealism)
+- Comic: [One Piece](https://one-piece.com/) (a story about male romanticism)
 
 ## Matched Queries
 
