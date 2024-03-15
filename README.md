@@ -17,7 +17,7 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 
 ## Selected Checkpoints
 
-- Generalized Predictive Model for Autonomous Driving
+- [Generalized Predictive Model for Autonomous Driving](https://arxiv.org/abs/2403.09630)
   - Accepted by CVPR 2024
 - [Generalized Relation Modeling for Transformer Tracking](https://arxiv.org/abs/2303.16580)
   - Accepted by CVPR 2023
