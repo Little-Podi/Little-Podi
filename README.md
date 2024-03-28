@@ -11,7 +11,7 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 ## Multi-Stage Pre-Training
 
 - Ph.D. in Electronic and Computer Engineering, 2022-2026 (expected)
-  - The Hong Kong University of Science and Technology, advised by Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) (IEEE Fellow)
+  - The Hong Kong University of Science and Technology, under the tutelage of Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) (IEEE Fellow)
 - B.Eng. in Electronic Information Engineering, 2018-2022
   - Huazhong University of Science and Technology, Advanced Class (GPA 3.9/4.0, ranked 1st)
 
