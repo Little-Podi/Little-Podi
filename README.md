@@ -18,7 +18,7 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 ## Selected Checkpoints
 
 - [Generalized Predictive Model for Autonomous Driving](https://arxiv.org/abs/2403.09630)
-  - Accepted by CVPR 2024
+  - Accepted by CVPR 2024 as Highlight (Top 2.8%)
 - [Generalized Relation Modeling for Transformer Tracking](https://arxiv.org/abs/2303.16580)
   - Accepted by CVPR 2023
 - [AiATrack: Attention in Attention for Transformer Visual Tracking](https://arxiv.org/abs/2207.09603)
@@ -30,8 +30,8 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 - [Full Postgraduate Scholarship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs)
 - Outstanding Graduate
 - Outstanding Graduation Thesis
-- Outstanding Undergraduate in Terms of Academic Performance
-- National Scholarship
+- Outstanding Undergraduate in Terms of Academic Performance (Top 1%)
+- National Scholarship (Top 2%)
 
 ## Region of Interests
 
