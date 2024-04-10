@@ -1,12 +1,12 @@
 ###  :wave:Hi there, this is Shenyuan Gao, a second-year Ph.D. student at [HKUST](https://hkust.edu.hk/)
 
+## Local Minima
+
+Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/blob/main/gsy_Resume.pdf) to check my current status.
+
 ## Latent Representation
 
 I was born in the last year of the 20th century (May 17th, 2000). I hope to live until the 22nd century so that my life would span three centuries. The Chinese meanings of each word in my name (高深远) are "High", "Deep", "Far", respectively.
-
-## Reached Local Minima
-
-Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/blob/main/gsy_Resume.pdf) to check my current status.
 
 ## Multi-Stage Pre-Training
 
@@ -24,7 +24,7 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 - [AiATrack: Attention in Attention for Transformer Visual Tracking](https://arxiv.org/abs/2207.09603)
   - Accepted by ECCV 2022
 
-## Cumulative Rewards
+## Rewards
 
 - [RedBird PhD Scholarship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
 - [Full Postgraduate Scholarship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs)
@@ -35,11 +35,11 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 
 ## Region of Interests
 
-- Song: [Temple](https://youtu.be/Pn28OiY_aw0) (a road towards our pursuit)
-- Game: [Total War: THREE KINGDOMS](https://www.totalwar.com/games/three-kingdoms/) (a world of heroic idealism)
-- Comic: [One Piece](https://one-piece.com/) (a story about male romanticism)
+- Song: [Temple](https://youtu.be/Pn28OiY_aw0)
+- Game: [Total War: THREE KINGDOMS](https://www.totalwar.com/games/three-kingdoms/)
+- Comic: [One Piece](https://one-piece.com/)
 
-## Matched Queries
+## Queries
 
 - School Email: [sygao@connect.ust.hk](mailto:sygao@connect.ust.hk)
 - Personal Email: [shenyuangao@gmail.com](mailto:shenyuangao@gmail.com)
