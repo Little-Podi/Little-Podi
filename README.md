@@ -17,6 +17,8 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 
 ## Selected Checkpoints
 
+- [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398)
+  - Preprint
 - [Generalized Predictive Model for Autonomous Driving](https://arxiv.org/abs/2403.09630)
   - Accepted by CVPR 2024 as Highlight (Top 2.8%)
 - [Generalized Relation Modeling for Transformer Tracking](https://arxiv.org/abs/2303.16580)
