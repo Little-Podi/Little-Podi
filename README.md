@@ -1,4 +1,4 @@
-###  :wave:Hi there, this is Shenyuan Gao, a second-year Ph.D. student at [HKUST](https://hkust.edu.hk/)
+###  :wave:Hi there, this is Shenyuan Gao, a 2nd-year Ph.D. student at [HKUST](https://hkust.edu.hk/)
 
 ## Local Minima
 
