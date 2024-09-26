@@ -2,7 +2,7 @@
 
 ## Model Card
 
-I am currently a 2nd-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
+I am currently a 3rd-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
 
 ## Local Minima
 
@@ -16,7 +16,7 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 ## Selected Checkpoints
 
 - [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398)
-  - Preprint
+  - Accepted by NeurIPS 2024
 - [Generalized Predictive Model for Autonomous Driving](https://arxiv.org/abs/2403.09630)
   - Accepted by CVPR 2024 as Highlight (Top 2.8%)
 - [Generalized Relation Modeling for Transformer Tracking](https://arxiv.org/abs/2303.16580)
