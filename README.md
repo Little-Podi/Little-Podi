@@ -15,6 +15,8 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 
 ## Selected Checkpoints
 
+- [AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938)
+  - Preprint
 - [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398)
   - Accepted by NeurIPS 2024
 - [Generalized Predictive Model for Autonomous Driving](https://arxiv.org/abs/2403.09630)
