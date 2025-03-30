@@ -46,9 +46,9 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 - Outstanding Undergraduate in Terms of Academic Performance (Top 1%)
 - National Scholarship (Top 2%)
 
-## Queries
+## Contacts
 
-- School Email: [sygao@connect.ust.hk](mailto:sygao@connect.ust.hk)
+- Academic Email: [sygao@connect.ust.hk](mailto:sygao@connect.ust.hk)
 - Personal Email: [shenyuangao@gmail.com](mailto:shenyuangao@gmail.com)
 - Enterprise Email: [gaoshenyuan@pjlab.org.cn](mailto:gaoshenyuan@pjlab.org.cn)
 - WeChat: [gsycm0517](https://gsy00517.github.io/about/index/Wechat.JPG)
