@@ -10,13 +10,15 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 
 ## Region of Interests
 
-- **Embodied AI**: Autonomous Driving, Generalist Robot, Real-World Decision Making
-- **Generative AI**: World Model, Diffusion Model, Vision-Language Foundation Model
+- **Embodied AI**: Generalist Robots, Learning from Internet Videos
+- **Generative AI**: Generalizable World Models, Foundation Models
 
 ## Selected Checkpoints
 
 - [AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938)
   - Preprint
+- Learning to Act Anywhere with Task-Centric Latent Actions
+  - Accepted by RSS 2025
 - [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398)
   - Accepted by NeurIPS 2024
 - [Generalized Predictive Model for Autonomous Driving](https://arxiv.org/abs/2403.09630)
