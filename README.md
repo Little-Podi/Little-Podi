@@ -2,7 +2,7 @@
 
 ## Model Card
 
-I am currently a 3rd-year Ph.D. student at [HKUST](https://hkust.edu.hk/).
+I am a 3rd-year Ph.D. student at [HKUST](https://hkust.edu.hk/) and also a research intern affiliated with [GEAR](https://research.nvidia.com/labs/gear/) at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working with [Scott Reed](https://reedscot.github.io/), [Jim Fan](https://jimfan.me/), and [Yuke Zhu](https://yukezhu.me/). I am currently interested in scaling foundation models for humanoid robots. Previously, I was fortunate to be a member of [OpenDriveLab](https://opendrivelab.com/) led by [Hongyang Li](https://lihongyang.info/).
 
 ## Local Minima
 
@@ -10,8 +10,8 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 
 ## Region of Interests
 
-- **Embodied AI**: Generalist Robots, Learning from Internet Videos
-- **Generative AI**: Generalizable World Models, Foundation Models
+- **Embodied AI**: Generalist Robots, Learning from Web Data
+- **Generative AI**: Video World Models, Open-Ended Learning
 
 ## Selected Checkpoints
 
@@ -52,6 +52,5 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 
 - Academic Email: [sygao@connect.ust.hk](mailto:sygao@connect.ust.hk)
 - Personal Email: [shenyuangao@gmail.com](mailto:shenyuangao@gmail.com)
-- Enterprise Email: [gaoshenyuan@pjlab.org.cn](mailto:gaoshenyuan@pjlab.org.cn)
 - WeChat: [gsycm0517](https://gsy00517.github.io/about/index/Wechat.JPG)
 - QQ: [917547962](https://gsy00517.github.io/about/index/QQ.JPG)
