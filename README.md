@@ -17,7 +17,7 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 
 - [AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938)
   - Accepted by ICML 2025
-- [UniVLA: Learning to Act Anywhere with Task-Centric Latent Actions](https://roboticsconference.org/program/papers/14/)
+- [UniVLA: Learning to Act Anywhere with Task-Centric Latent Actions](https://arxiv.org/abs/2505.06111)
   - Accepted by RSS 2025
 - [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398)
   - Accepted by NeurIPS 2024
