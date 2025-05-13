@@ -4,6 +4,8 @@
 
 I am a 3rd-year Ph.D. student at [HKUST](https://hkust.edu.hk/) and also a research intern affiliated with [GEAR](https://research.nvidia.com/labs/gear/) at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working with [Scott Reed](https://reedscot.github.io/), [Jim Fan](https://jimfan.me/), and [Yuke Zhu](https://yukezhu.me/). I am currently interested in scaling foundation models for humanoid robots. Previously, I was fortunate to be a member of [OpenDriveLab](https://opendrivelab.com/) led by [Hongyang Li](https://lihongyang.info/).
 
+*I will be on the job market in 2026. Feel free to shoot me an email if you think I would be a good fit!*
+
 ## Local Minima
 
 Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/blob/main/gsy_Resume.pdf) to check my current status.
@@ -23,10 +25,6 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
   - Accepted by NeurIPS 2024
 - [Generalized Predictive Model for Autonomous Driving](https://arxiv.org/abs/2403.09630)
   - Accepted by CVPR 2024 as Highlight (Top 2.8%)
-- [Generalized Relation Modeling for Transformer Tracking](https://arxiv.org/abs/2303.16580)
-  - Accepted by CVPR 2023
-- [AiATrack: Attention in Attention for Transformer Visual Tracking](https://arxiv.org/abs/2207.09603)
-  - Accepted by ECCV 2022
 
 ## Latent Representation
 
