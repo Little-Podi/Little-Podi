@@ -4,6 +4,8 @@
 
 I am a 3rd-year Ph.D. student at [HKUST](https://hkust.edu.hk/) and also a research intern affiliated with [GEAR](https://research.nvidia.com/labs/gear/) at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working with [Scott Reed](https://reedscot.github.io/), [Jim Fan](https://jimfan.me/), and [Yuke Zhu](https://yukezhu.me/). I am currently interested in scaling foundation models for humanoid robots. Previously, I was fortunate to be a member of [OpenDriveLab](https://opendrivelab.com/) led by [Hongyang Li](https://lihongyang.info/).
 
+***I will be on the job market for Summer/Fall 2026. Feel free to contact me!***
+
 ## Local Minima
 
 Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/blob/main/gsy_Resume.pdf) to check my current status.
