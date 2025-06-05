@@ -1,4 +1,4 @@
-###  :wave:Hi there, this is Shenyuan Gao
+###  :wave:Hi there, this is Shenyuan Gao [![GScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hZtOnecAAAAJ&hl=en) ![![Resume](https://img.shields.io/badge/Resume-Available-brightgreen.svg?style=for-the-badge)](https://github.com/Little-Podi/Little-Podi/blob/main/gsy_Resume.pdf)
 
 ## Model Card
 
