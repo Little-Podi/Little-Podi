@@ -41,6 +41,8 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 
 ## Rewards
 
+- XingQi Intern (the highest honor for research interns at Shanghai AI Laboratory)
+- NeurIPS Top Reviewer
 - [RedBird PhD Scholarship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#redbird)
 - [Full Postgraduate Scholarship](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees#pgs)
 - Outstanding Graduate
