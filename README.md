@@ -52,7 +52,7 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 
 ## Contacts
 
-- Academic Email: [sygao@connect.ust.hk](mailto:sygao@connect.ust.hk)
-- Personal Email: [shenyuangao@gmail.com](mailto:shenyuangao@gmail.com)
+- Personal Email: [sygao@connect.ust.hk](mailto:sygao@connect.ust.hk)
+- Work Email: [shenyuang@nvidia.com](mailto:shenyuang@nvidia.com)
 - WeChat: [gsycm0517](https://gsy00517.github.io/about/index/Wechat.JPG)
 - QQ: [917547962](https://gsy00517.github.io/about/index/QQ.JPG)
