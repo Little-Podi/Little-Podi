@@ -19,14 +19,25 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 
 ## Selected Checkpoints
 
-- [AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938)
-  - Accepted by ICML 2025
-- [UniVLA: Learning to Act Anywhere with Task-Centric Latent Actions](https://arxiv.org/abs/2505.06111)
-  - Accepted by RSS 2025
-- [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398)
-  - Accepted by NeurIPS 2024
-- [Generalized Predictive Model for Autonomous Driving](https://arxiv.org/abs/2403.09630)
-  - Accepted by CVPR 2024 as Highlight (Top 2.8%)
+**Universal Latent Actions for Embodied Decision Making**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Little-Podi&repo=AdaWorld&description_lines_count=2)](https://github.com/Little-Podi/AdaWorld)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenDriveLab&repo=UniVLA&description_lines_count=2)](https://github.com/OpenDriveLab/UniVLA)
+
+**Generalizable World Models for Autonomous Driving**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenDriveLab&repo=Vista&description_lines_count=2)](https://github.com/OpenDriveLab/Vista)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenDriveLab&repo=ReSim&description_lines_count=2)](https://github.com/OpenDriveLab/ReSim)
+
+**Million-Scale Datasets for Scalable Learning**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenDriveLab&repo=DriveAGI&description_lines_count=2)](https://github.com/OpenDriveLab/DriveAGI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenDriveLab&repo=AgiBot-World&description_lines_count=2)](https://github.com/OpenDriveLab/AgiBot-World)
+
+**Vision Transformers for Object Tracking**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Little-Podi&repo=GRM&description_lines_count=2)](https://github.com/Little-Podi/GRM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Little-Podi&repo=AiATrack&description_lines_count=2)](https://github.com/Little-Podi/AiATrack)
 
 ## Latent Representation
 
@@ -50,7 +61,7 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 - Outstanding Undergraduate in Terms of Academic Performance (Top 1%)
 - National Scholarship (Top 2%)
 
-## Contacts
+## Links
 
 - Personal Email: [sygao@connect.ust.hk](mailto:sygao@connect.ust.hk)
 - Work Email: [shenyuang@nvidia.com](mailto:shenyuang@nvidia.com)
