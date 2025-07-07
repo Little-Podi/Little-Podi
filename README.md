@@ -64,13 +64,13 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 ## Services
 
 - Workshop Organizer
-  NeurIPS 2025 Workshop on Embodied World Models for Decision Making
+  - NeurIPS 2025 Workshop on Embodied World Models for Decision Making
 - Conference Reviewer
-  ICLR, ICML, NeurIPS, RSS, CVPR, ICCV, ECCV, WACV, AAAI, AISTATS, ICPR
+  - ICLR, ICML, NeurIPS, RSS, CVPR, ICCV, ECCV, WACV, AAAI, AISTATS, ICPR
 - Journal Reviewer
-  TMLR, TPAMI, TMM, TCSVT, TASE, IMAVIS, PR
+  - TMLR, TPAMI, TMM, TCSVT, TASE, IMAVIS, PR
 - Teaching Assistant
-  COMP 5214: Advanced Deep Learning Architectures (graduate/undergraduate), ELEC 3100: Signal Processing and Communications (undergraduate)
+  - COMP 5214: Advanced Deep Learning Architectures (graduate/undergraduate), ELEC 3100: Signal Processing and Communications (undergraduate)
 
 ## Links
 
