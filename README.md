@@ -61,6 +61,17 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 - Outstanding Undergraduate in Terms of Academic Performance (Top 1%)
 - National Scholarship (Top 2%)
 
+## Services
+
+- Workshop Organizer
+  NeurIPS 2025 Workshop on Embodied World Models for Decision Making
+- Conference Reviewer
+  ICLR, ICML, NeurIPS, RSS, CVPR, ICCV, ECCV, WACV, AAAI, AISTATS, ICPR
+- Journal Reviewer
+  TMLR, TPAMI, TMM, TCSVT, TASE, IMAVIS, PR
+- Teaching Assistant
+  COMP 5214: Advanced Deep Learning Architectures (graduate/undergraduate), ELEC 3100: Signal Processing and Communications (undergraduate)
+
 ## Links
 
 - Personal Email: [sygao@connect.ust.hk](mailto:sygao@connect.ust.hk)
