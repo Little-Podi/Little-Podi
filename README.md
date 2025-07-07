@@ -70,7 +70,8 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 - Journal Reviewer
   - TMLR, TPAMI, TMM, TCSVT, TASE, IMAVIS, PR
 - Teaching Assistant
-  - COMP 5214: Advanced Deep Learning Architectures (graduate/undergraduate), ELEC 3100: Signal Processing and Communications (undergraduate)
+  - COMP 5214: Advanced Deep Learning Architectures (graduate/undergraduate)
+  - ELEC 3100: Signal Processing and Communications (undergraduate)
 
 ## Links
 
