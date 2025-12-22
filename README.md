@@ -64,6 +64,7 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 ## Services
 
 - Workshop Organizer
+  - CVPR 2025 Workshop on Scalable Robot Learning Systems
   - NeurIPS 2025 Workshop on Embodied World Models for Decision Making
 - Conference Reviewer
   - ICLR, ICML, NeurIPS, RSS, CVPR, ICCV, ECCV, WACV, AAAI, AISTATS, ICPR
