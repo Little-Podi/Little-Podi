@@ -4,7 +4,7 @@
 
 ## Model Card
 
-I am a final-year Ph.D. student at [HKUST](https://hkust.edu.hk/) and also a research scientist intern affiliated with [GEAR](https://research.nvidia.com/labs/gear/) at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working with [Joel Jang](https://joeljang.github.io/) and [Jim Fan](https://jimfan.me/). I am currently scaling foundation models for general-purpose robots. Previously, I was fortunate to be a member of [OpenDriveLab](https://opendrivelab.com/) led by [Hongyang Li](https://lihongyang.info/).
+I am a final-year Ph.D. student at [HKUST](https://hkust.edu.hk/) and also a member affiliated with [GEAR](https://research.nvidia.com/labs/gear/) at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working with [Joel Jang](https://joeljang.github.io/), [Jim Fan](https://jimfan.me/), and [Yuke Zhu](https://yukezhu.me/). I am currently scaling foundation models for general-purpose robots. Previously, I was fortunate to work at [OpenDriveLab](https://opendrivelab.com/) led by [Hongyang Li](https://lihongyang.info/).
 
 ***I will be on the job market for Mid 2026. Feel free to contact me!***
 
