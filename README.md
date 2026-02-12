@@ -14,8 +14,8 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 
 ## Region of Interests
 
-- **Embodied AI**: Generalist Robots, Learning from Web Data
-- **Generative AI**: Video World Models, Open-Ended Learning
+- Video World Models for Generalist Robots
+- Self-Improvement by Scaling Data and Compute
 
 ## Selected Checkpoints
 
@@ -67,16 +67,16 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
   - CVPR 2025 Workshop on Scalable Robot Learning Systems
   - NeurIPS 2025 Workshop on Embodied World Models for Decision Making
 - Conference Reviewer
-  - ICLR, ICML, NeurIPS, RSS, CVPR, ICCV, ECCV, WACV, AAAI, AISTATS, ICPR
+  - ICLR, ICML, NeurIPS, RSS, SIGGRAPH, CVPR, ICCV, ECCV, WACV, AAAI, AISTATS, BMVC, ICPR
 - Journal Reviewer
-  - TMLR, TPAMI, TMM, TCSVT, TASE, IMAVIS, PR
+  - CSUR, TMLR, RAL, TPAMI, TMM, TCSVT, TASE, IMAVIS, PR, ASOC
 - Teaching Assistant
   - COMP 5214: Advanced Deep Learning Architectures (graduate/undergraduate)
   - ELEC 3100: Signal Processing and Communications (undergraduate)
 
 ## Links
 
+- Enterprise Email: [shenyuang@nvidia.com](mailto:shenyuang@nvidia.com)
 - Personal Email: [sygao@connect.ust.hk](mailto:sygao@connect.ust.hk)
-- Work Email: [shenyuang@nvidia.com](mailto:shenyuang@nvidia.com)
 - WeChat: [gsycm0517](https://gsy00517.github.io/about/index/Wechat.JPG)
 - QQ: [917547962](https://gsy00517.github.io/about/index/QQ.JPG)
