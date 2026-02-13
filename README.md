@@ -14,7 +14,7 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 
 ## Region of Interests
 
-- Video World Models for Generalist Robots
+- Video World Models for General-Purpose Robots
 - Self-Improvement by Scaling Data and Compute
 
 ## Selected Checkpoints
