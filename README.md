@@ -18,16 +18,20 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 ## Selected Checkpoints
 
 - **DreamDojo** [[Project](https://dreamdojo-world.github.io/)] [[VentureBeat](https://venturebeat.com/technology/nvidia-releases-dreamdojo-a-robot-world-model-trained-on-44-000-hours-of)]
+  
   *A Robot World Model pretrained on 44k hours of human egocentric data, showing unprecedented generalization to diverse objects and environments.*
 - **DreamZero** [[Project](https://dreamzero0.github.io/)]
+  
   *A World Action Model (WAM) that enables zero-shot generalization to unseen tasks and enables few-shot embodiment learning.*
 
 ## Multi-Stage Pre-Training
 
 - Ph.D. in Electronic and Computer Engineering, 2022-2026 (expected)
-  - Hong Kong University of Science and Technology, under the tutelage of Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) (IEEE Fellow)
+  
+  Hong Kong University of Science and Technology, under the tutelage of Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) (IEEE Fellow)
 - B.Eng. in Electronic Information Engineering, 2018-2022
-  - Huazhong University of Science and Technology, Advanced Class (GPA 3.9/4.0, ranked 1st)
+  
+  Huazhong University of Science and Technology, Advanced Class (GPA 3.9/4.0, ranked 1st)
 
 ## Local Minima
 
