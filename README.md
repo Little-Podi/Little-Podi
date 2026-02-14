@@ -4,9 +4,7 @@
 
 ## Model Card
 
-I am a final-year Ph.D. student at [HKUST](https://hkust.edu.hk/) and also a member affiliated with [GEAR](https://research.nvidia.com/labs/gear/) at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working with [Joel Jang](https://joeljang.github.io/), [Jim Fan](https://jimfan.me/), and [Yuke Zhu](https://yukezhu.me/). I am currently scaling foundation models for general-purpose robots. Previously, I was fortunate to work at [OpenDriveLab](https://opendrivelab.com/) led by [Hongyang Li](https://lihongyang.info/).
-
-***I will be on the job market for Mid 2026. Feel free to contact me!***
+I am an incoming Research Scientist affiliated with [GEAR](https://research.nvidia.com/labs/gear/) at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working with [Joel Jang](https://joeljang.github.io/), [Jim Fan](https://jimfan.me/), and [Yuke Zhu](https://yukezhu.me/). I am currently scaling foundation models for general-purpose robots. Previously, I was fortunate to work at [OpenDriveLab](https://opendrivelab.com/) led by [Hongyang Li](https://lihongyang.info/).
 
 ## Local Minima
 
@@ -19,25 +17,8 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 
 ## Selected Checkpoints
 
-**Universal Latent Actions for Embodied Decision Making**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Little-Podi&repo=AdaWorld&description_lines_count=2)](https://github.com/Little-Podi/AdaWorld)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenDriveLab&repo=UniVLA&description_lines_count=2)](https://github.com/OpenDriveLab/UniVLA)
-
-**Generalizable World Models for Autonomous Driving**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenDriveLab&repo=Vista&description_lines_count=2)](https://github.com/OpenDriveLab/Vista)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenDriveLab&repo=ReSim&description_lines_count=2)](https://github.com/OpenDriveLab/ReSim)
-
-**Million-Scale Datasets for Scalable Learning**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenDriveLab&repo=DriveAGI&description_lines_count=2)](https://github.com/OpenDriveLab/DriveAGI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenDriveLab&repo=AgiBot-World&description_lines_count=2)](https://github.com/OpenDriveLab/AgiBot-World)
-
-**Vision Transformers for Object Tracking**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Little-Podi&repo=GRM&description_lines_count=2)](https://github.com/Little-Podi/GRM)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Little-Podi&repo=AiATrack&description_lines_count=2)](https://github.com/Little-Podi/AiATrack)
+- DreamDojo, a Robot World Model pretrained on 44k hours of human egocentric data, showing unprecedented generalization to diverse objects and environments. [[Project](https://dreamdojo-world.github.io/)] [[VentureBeat](https://venturebeat.com/technology/nvidia-releases-dreamdojo-a-robot-world-model-trained-on-44-000-hours-of)]
+- DreamZero, a World Action Model (WAM) that enables zero-shot generalization to unseen tasks and enables few-shot embodiment learning. [[Project](https://dreamzero0.github.io/)]
 
 ## Latent Representation
 
