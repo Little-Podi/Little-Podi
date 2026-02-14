@@ -4,7 +4,7 @@
 
 ## Model Card
 
-I will join [GEAR](https://research.nvidia.com/labs/gear/) at [NVIDIA Research](https://www.nvidia.com/en-us/research/) as a Research Scientist, working with [Joel Jang](https://joeljang.github.io/) and [Jim Fan](https://jimfan.me/). I am currently scaling foundation models for Physical AGI. Previously, I was fortunate to work at [OpenDriveLab](https://opendrivelab.com/).
+I am a final-year Ph.D. student at [HKUST](https://hkust.edu.hk/) and also a member affiliated with [GEAR](https://research.nvidia.com/labs/gear/) at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working with [Joel Jang](https://joeljang.github.io/) and [Jim Fan](https://jimfan.me/). I am currently scaling foundation models for robots. Previously, I was fortunate to work at [OpenDriveLab](https://opendrivelab.com/).
 
 ## Latent Representation
 
@@ -27,11 +27,9 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
 ## Multi-Stage Pre-Training
 
 - Ph.D. in Electronic and Computer Engineering, 2022-2026 (expected)
-  
-  Hong Kong University of Science and Technology, under the tutelage of Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) (IEEE Fellow)
+  - HKUST, under the tutelage of Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) (IEEE Fellow)
 - B.Eng. in Electronic Information Engineering, 2018-2022
-  
-  Huazhong University of Science and Technology, Advanced Class (GPA 3.9/4.0, ranked 1st)
+  - HUST, Advanced Class (GPA 3.9/4.0, ranked 1st)
 
 ## Local Minima
 
