@@ -4,7 +4,7 @@
 
 ## Model Card
 
-I am an incoming Research Scientist affiliated with [GEAR](https://research.nvidia.com/labs/gear/) at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working with [Joel Jang](https://joeljang.github.io/), [Jim Fan](https://jimfan.me/), and [Yuke Zhu](https://yukezhu.me/). I am currently scaling foundation models for general-purpose robots. Previously, I was fortunate to work at [OpenDriveLab](https://opendrivelab.com/) led by [Hongyang Li](https://lihongyang.info/).
+I will join [GEAR](https://research.nvidia.com/labs/gear/) at [NVIDIA Research](https://www.nvidia.com/en-us/research/) as a Research Scientist, working with [Joel Jang](https://joeljang.github.io/) and [Jim Fan](https://jimfan.me/). I am currently scaling foundation models for Physical AGI. Previously, I was fortunate to work at [OpenDriveLab](https://opendrivelab.com/).
 
 ## Local Minima
 
