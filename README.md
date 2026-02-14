@@ -6,9 +6,9 @@
 
 I will join [GEAR](https://research.nvidia.com/labs/gear/) at [NVIDIA Research](https://www.nvidia.com/en-us/research/) as a Research Scientist, working with [Joel Jang](https://joeljang.github.io/) and [Jim Fan](https://jimfan.me/). I am currently scaling foundation models for Physical AGI. Previously, I was fortunate to work at [OpenDriveLab](https://opendrivelab.com/).
 
-## Local Minima
+## Latent Representation
 
-Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/blob/main/gsy_Resume.pdf) to check my current status.
+I was born in the last year of the 20th century (May 17th, 2000). I hope to live until the 22nd century so that my life would span three centuries. The Chinese meanings of each word in my name (高深远) are "High", "Deep", "Far", respectively.
 
 ## Region of Interests
 
@@ -17,12 +17,10 @@ Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/
 
 ## Selected Checkpoints
 
-- DreamDojo, a Robot World Model pretrained on 44k hours of human egocentric data, showing unprecedented generalization to diverse objects and environments. [[Project](https://dreamdojo-world.github.io/)] [[VentureBeat](https://venturebeat.com/technology/nvidia-releases-dreamdojo-a-robot-world-model-trained-on-44-000-hours-of)]
-- DreamZero, a World Action Model (WAM) that enables zero-shot generalization to unseen tasks and enables few-shot embodiment learning. [[Project](https://dreamzero0.github.io/)]
-
-## Latent Representation
-
-I was born in the last year of the 20th century (May 17th, 2000). I hope to live until the 22nd century so that my life would span three centuries. The Chinese meanings of each word in my name (高深远) are "High", "Deep", "Far", respectively.
+- **DreamDojo** [[Project](https://dreamdojo-world.github.io/)] [[VentureBeat](https://venturebeat.com/technology/nvidia-releases-dreamdojo-a-robot-world-model-trained-on-44-000-hours-of)]
+  *A Robot World Model pretrained on 44k hours of human egocentric data, showing unprecedented generalization to diverse objects and environments.*
+- **DreamZero** [[Project](https://dreamzero0.github.io/)]
+  *A World Action Model (WAM) that enables zero-shot generalization to unseen tasks and enables few-shot embodiment learning.*
 
 ## Multi-Stage Pre-Training
 
@@ -30,6 +28,10 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
   - Hong Kong University of Science and Technology, under the tutelage of Prof. [Jun Zhang](https://eejzhang.people.ust.hk/) (IEEE Fellow)
 - B.Eng. in Electronic Information Engineering, 2018-2022
   - Huazhong University of Science and Technology, Advanced Class (GPA 3.9/4.0, ranked 1st)
+
+## Local Minima
+
+Please find my up-to-date [[Resume]](https://github.com/Little-Podi/Little-Podi/blob/main/gsy_Resume.pdf) to check my current status.
 
 ## Rewards
 
@@ -51,13 +53,6 @@ I was born in the last year of the 20th century (May 17th, 2000). I hope to live
   - ICLR, ICML, NeurIPS, RSS, SIGGRAPH, CVPR, ICCV, ECCV, WACV, AAAI, AISTATS, BMVC, ICPR
 - Journal Reviewer
   - CSUR, TMLR, RAL, TPAMI, TMM, TCSVT, TASE, IMAVIS, PR, ASOC
-- Teaching Assistant
+- Teaching
   - COMP 5214: Advanced Deep Learning Architectures (graduate/undergraduate)
   - ELEC 3100: Signal Processing and Communications (undergraduate)
-
-## Links
-
-- Enterprise Email: [shenyuang@nvidia.com](mailto:shenyuang@nvidia.com)
-- Personal Email: [sygao@connect.ust.hk](mailto:sygao@connect.ust.hk)
-- WeChat: [gsycm0517](https://gsy00517.github.io/about/index/Wechat.JPG)
-- QQ: [917547962](https://gsy00517.github.io/about/index/QQ.JPG)
