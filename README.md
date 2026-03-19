@@ -4,7 +4,7 @@
 
 ## Model Card
 
-I am a final-year Ph.D. student at [HKUST](https://hkust.edu.hk/) and also a member affiliated with [GEAR](https://research.nvidia.com/labs/gear/) at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working with [Joel Jang](https://joeljang.github.io/) and [Jim Fan](https://jimfan.me/). I am currently scaling foundation models for robots. Previously, I was fortunate to work at [OpenDriveLab](https://opendrivelab.com/).
+I am a final-year Ph.D. student at [HKUST](https://hkust.edu.hk/) and also a member affiliated with [GEAR](https://research.nvidia.com/labs/gear/) at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working with [Yuke Zhu](https://yukezhu.me/) and [Jim Fan](https://jimfan.me/). I am currently scaling foundation models for robots. Previously, I was fortunate to work at [OpenDriveLab](https://opendrivelab.com/).
 
 ## Latent Representation
 
