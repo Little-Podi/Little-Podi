@@ -1,10 +1,10 @@
-###  :wave:Hi there, this is Shenyuan Gao
+### :wave:Hi there, this is Shenyuan Gao
 
 [![GScholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=hZtOnecAAAAJ&hl=en) [![Resume](https://img.shields.io/badge/Resume-Available-brightgreen.svg?style=for-the-badge)](https://github.com/Little-Podi/Little-Podi/blob/main/gsy_Resume.pdf)
 
 ## Model Card
 
-I am a PhD from [HKUST](https://hkust.edu.hk/) and also a member affiliated with [GEAR](https://research.nvidia.com/labs/gear/) at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working with [Yuke Zhu](https://yukezhu.me/) and [Jim Fan](https://jimfan.me/). I am currently scaling foundation models for robots. Previously, I was fortunate to work at [OpenDriveLab](https://opendrivelab.com/).
+I am a Research Scientist affiliated with [GEAR](https://research.nvidia.com/labs/gear/) at [NVIDIA Research](https://www.nvidia.com/en-us/research/), working with [Yuke Zhu](https://yukezhu.me/) and [Jim Fan](https://jimfan.me/). I am currently scaling foundation models for robots. I earned my PhD from [HKUST](https://hkust.edu.hk/). Previously, I was fortunate to work at [OpenDriveLab](https://opendrivelab.com/).
 
 ## Latent Representation
 
